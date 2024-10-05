@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oussama</h1>
 <h3 align="center">A passionate Full Stack developer & Data Scientist as well from Morocco</h3>
 
+
+
+
+<img src="https://camo.githubusercontent.com/621ed0a0aa2019c56345898bf617d372fffcaa8d5b60f138aee735865e58ace9/68747470733a2f2f322e62702e626c6f6773706f742e636f6d2f2d53547457484131355648672f58643279325a6a4a6d65492f41414141414141415276632f356b716e3453754f66647747655137613670534e5a356942753547686569774267434c63424741735948512f773931392f6d6172696f2d706978656c2d6172742d6469676974616c2d6172742d6e696e74656e646f2d636f6d70757465722d75686470617065722e636f6d2d344b2d342e323033382d77702e7468756d626e61696c2e6a7067" alt="MasterHead" data-canonical-src="https://2.bp.blogspot.com/-STtWHA15VHg/Xd2y2ZjJmeI/AAAAAAAARvc/5kqn4SuOfdwGeQ7a6pSNZ5iBu5GheiwBgCLcBGAsYHQ/w919/mario-pixel-art-digital-art-nintendo-computer-uhdpaper.com-4K-4.2038-wp.thumbnail.jpg" style="max-width: 100%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama&label=Profile%20views&color=0e75b6&style=flat" alt="oussama" /> </p>
 
 <h3 align="left">Connect with me:</h3>
